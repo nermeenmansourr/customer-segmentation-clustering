@@ -44,7 +44,7 @@ Not all customers behave the same way. Which groups of customers exist in our da
 
 > Segment sizes come from one run of the model. Cluster numbers can change between runs.
 
-![Customer clusters](images/clusters_.png)
+![Customer clusters](clusers_.PNG)
 
 ## Tools
 
