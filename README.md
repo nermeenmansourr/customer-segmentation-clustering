@@ -71,6 +71,5 @@ Or click the **Open in Colab** badge at the top. Make sure `Mall_Customers.csv` 
 ## Author
 
 **Nermeen Mansour**
-[GitHub](https://github.com/nermeenmansourr) · [LinkedIn](www.linkedin.com/in/nermeen-mansour-643180223
-
+[GitHub](https://github.com/nermeenmansourr) ·[LinkedIn](www.linkedin.com/in/nermeen-mansour-643180223
 ) · [Email](nermeenmansour61@gmail.com)
