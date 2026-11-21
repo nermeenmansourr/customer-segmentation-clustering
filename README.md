@@ -44,7 +44,7 @@ Not all customers behave the same way. Which groups of customers exist in our da
 
 > Segment sizes come from one run of the model. Cluster numbers can change between runs.
 
-![Customer clusters](images/clusters.png)
+![Customer clusters](images/clusters_.png)
 
 ## Tools
 
@@ -71,4 +71,6 @@ Or click the **Open in Colab** badge at the top. Make sure `Mall_Customers.csv` 
 ## Author
 
 **Nermeen Mansour**
-[GitHub](https://github.com/nermeenmansourr) · [LinkedIn](#) · [Email](#)
+[GitHub](https://github.com/nermeenmansourr) · [LinkedIn](www.linkedin.com/in/nermeen-mansour-643180223
+
+) · [Email](nermeenmansour61@gmail.com)
